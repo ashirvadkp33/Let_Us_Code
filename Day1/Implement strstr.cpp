@@ -1,4 +1,5 @@
 // { Driver Code Starts
+//https://practice.geeksforgeeks.org/problems/implement-strstr/1/?page=1&status[]=unsolved&category[]=Strings&curated[]=1&sortBy=submissions#
 #include<bits/stdc++.h>
 using namespace std;
 
